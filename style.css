@@ -1,0 +1,15 @@
+.hero{
+    background-image: url('istockphoto-2048176515-1024x1024.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-img-top{
+    /* width: 100%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+#contact,#aboutus{
+    min-height: 100vh;
+}
